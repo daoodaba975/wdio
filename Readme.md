@@ -1,6 +1,7 @@
 # Full WDIO
 
-A fully structured project with Webdriver IO ✅
+A fully structured project with Webdriver IO ✅  
+This is an example of a complete organization of a project with WDIO.
 
 ## Install dependencies
 
